@@ -48,7 +48,7 @@ Cypress v9
 {
   "auth": {
     "username": "lasithawijenayak1",
-    "access_key": "W2cfhwy7so5wkZFspGyi"
+    "access_key": ""
   },
   "browsers": [{
       "browser": "chrome",
