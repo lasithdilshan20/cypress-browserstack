@@ -1,0 +1,22 @@
+{
+  "name": "cypress-browserstack",
+  "version": "1.0.0",
+  "description": "To run Cypress test with BrowserStack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasithdilshan20/cypress-browserstack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasithdilshan20/cypress-browserstack/issues"
+  },
+  "homepage": "https://github.com/lasithdilshan20/cypress-browserstack#readme",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}
