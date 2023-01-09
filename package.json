@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/lasithdilshan20/cypress-browserstack#readme",
   "dependencies": {
-    "cypress": "^12.3.0"
+    "cypress": "12.3.0"
   }
 }
