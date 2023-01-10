@@ -4,7 +4,8 @@
   "description": "To run Cypress test with BrowserStack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx cypress run --record --key 320ec328-5041-4b9d-84f2-4847acbe02e2"
   },
   "repository": {
     "type": "git",
